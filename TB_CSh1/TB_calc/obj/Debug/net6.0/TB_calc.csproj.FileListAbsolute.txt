@@ -1,0 +1,15 @@
+C:\Users\prept\Desktop\Git_projects\TB_C_Sharp\TB_CSh1\TB_calc\bin\Debug\net6.0\TB_calc.exe
+C:\Users\prept\Desktop\Git_projects\TB_C_Sharp\TB_CSh1\TB_calc\bin\Debug\net6.0\TB_calc.deps.json
+C:\Users\prept\Desktop\Git_projects\TB_C_Sharp\TB_CSh1\TB_calc\bin\Debug\net6.0\TB_calc.runtimeconfig.json
+C:\Users\prept\Desktop\Git_projects\TB_C_Sharp\TB_CSh1\TB_calc\bin\Debug\net6.0\TB_calc.dll
+C:\Users\prept\Desktop\Git_projects\TB_C_Sharp\TB_CSh1\TB_calc\bin\Debug\net6.0\TB_calc.pdb
+C:\Users\prept\Desktop\Git_projects\TB_C_Sharp\TB_CSh1\TB_calc\obj\Debug\net6.0\TB_calc.csproj.AssemblyReference.cache
+C:\Users\prept\Desktop\Git_projects\TB_C_Sharp\TB_CSh1\TB_calc\obj\Debug\net6.0\TB_calc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prept\Desktop\Git_projects\TB_C_Sharp\TB_CSh1\TB_calc\obj\Debug\net6.0\TB_calc.AssemblyInfoInputs.cache
+C:\Users\prept\Desktop\Git_projects\TB_C_Sharp\TB_CSh1\TB_calc\obj\Debug\net6.0\TB_calc.AssemblyInfo.cs
+C:\Users\prept\Desktop\Git_projects\TB_C_Sharp\TB_CSh1\TB_calc\obj\Debug\net6.0\TB_calc.csproj.CoreCompileInputs.cache
+C:\Users\prept\Desktop\Git_projects\TB_C_Sharp\TB_CSh1\TB_calc\obj\Debug\net6.0\TB_calc.dll
+C:\Users\prept\Desktop\Git_projects\TB_C_Sharp\TB_CSh1\TB_calc\obj\Debug\net6.0\refint\TB_calc.dll
+C:\Users\prept\Desktop\Git_projects\TB_C_Sharp\TB_CSh1\TB_calc\obj\Debug\net6.0\TB_calc.pdb
+C:\Users\prept\Desktop\Git_projects\TB_C_Sharp\TB_CSh1\TB_calc\obj\Debug\net6.0\TB_calc.genruntimeconfig.cache
+C:\Users\prept\Desktop\Git_projects\TB_C_Sharp\TB_CSh1\TB_calc\obj\Debug\net6.0\ref\TB_calc.dll
